@@ -37,3 +37,7 @@
 우리가 단체로 임금체불진정서 제출한거라서 저절로 인정 되겠네
 <br><br><br>
 
+
+
+
+http://naver.me/xXNYqsWB
