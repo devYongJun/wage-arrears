@@ -39,10 +39,10 @@
 
 
 
-
+// https://v4.map.naver.com/?searchCoord=8cc6eab5e037a1612cce4d12cfefbf430d39bbbab5109635f0c55202fbf31dc7&query=7ISc7Jq46rOg7Jqp64W464%2BZ7LKt&tab=1&lng=b925e0b1fcd5f3f147df938c768ae76a&mapMode=0&mpx=0161b12982b7aa65543f82426b0e8d274875c90addd518d0abaec4d91ee6181348f2027aeffad1a8f6e3ac9a9a7a4bd181a7f96f0f5fbf783ff632eac376443e&lat=d368dcffc125329a807253e6488455ef&dlevel=10&enc=b64&menu=location
 <table cellpadding="0" cellspacing="0" width="462">
 <tr>
-  <td style="border:1px solid #cecece;"><a href="https://v4.map.naver.com/?searchCoord=8cc6eab5e037a1612cce4d12cfefbf430d39bbbab5109635f0c55202fbf31dc7&query=7ISc7Jq46rOg7Jqp64W464%2BZ7LKt&tab=1&lng=b925e0b1fcd5f3f147df938c768ae76a&mapMode=0&mpx=0161b12982b7aa65543f82426b0e8d274875c90addd518d0abaec4d91ee6181348f2027aeffad1a8f6e3ac9a9a7a4bd181a7f96f0f5fbf783ff632eac376443e&lat=d368dcffc125329a807253e6488455ef&dlevel=10&enc=b64&menu=location" target="_blank">
+  <td style="border:1px solid #cecece;"><a href="http://naver.me/Ffm9ROOo" target="_blank">
     <img src="http://prt.map.naver.com/mashupmap/print?key=p1584340164537_-1165566487" width="460" height="340" alt="지도 크게 보기" title="지도 크게 보기" border="0" style="vertical-align:top;"/></a>
   </td> 
 </tr> 
