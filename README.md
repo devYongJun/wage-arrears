@@ -30,7 +30,7 @@
 회사에서 밀린급여를 언제까지 주겠다는 내용의 문서인데  
 아마 아무도 없을거야... 있으면 좋아    
 <br><br><br>
-## 5. 원천징수영수증 (중요도 ?)
+## 5. 원천징수영수증 (중요도 50%)
 [국세청홈텍스](https://www.hometax.go.kr/websquare/websquare.html?w2xPath=/ui/pp/index.xml) 접속
 아래 사진에 버튼 클릭
 ![step0](hometax_step_0.jpg)  
@@ -40,7 +40,7 @@
 ![savepdf0](원천징수_pdf저장방법0.jpg)    
 ![savepdf1](원천징수_pdf저장방법1.jpg)     
 <br><br><br>
-## 6. 국민건강보혐료 미납내역 (중요도 ?)
+## 6. 국민건강보혐료 미납내역 (중요도 40%)
 [국민건강보험 징수포털](https://si4n.nhis.or.kr/jpza/JpZaa00102.do) 접속
 아래 사진에 버튼 클릭
 ![health](건강보험료미납확인방법.jpg)  
@@ -49,11 +49,11 @@ xls로 저장
 **pdf로 저장해놓고 인쇄소나 문방구가서 프린트 하려면?**   
 [Excel to PDF](https://smallpdf.com/kr/excel-to-pdf)에서 변환   
 <br><br><br>
-## 6. 이직확인서 (중요도 30$)
+## 6. 이직확인서 (중요도 30%)
 [고용산재보험 토탈서비스](http://total.kcomwel.or.kr/main.do) 접속    
 참고로 여기 사이트 개헬이니까 마음의 준비하고 들어가   
 인터넷익스플로러로만 가능하고 수많은 엑티브엑스를 쓰러뜨리면 아래화면에 도착할수 있을거야  
-[hell](이직확인서.jpg)  
+![hell](이직확인서.jpg)  
 
 **pdf로 저장해놓고 인쇄소나 문방구가서 프린트 하려면?** 
 인쇄 - Microsoft PDF - 인쇄하기 - 저장화면 뜸  
