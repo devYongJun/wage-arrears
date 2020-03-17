@@ -8,12 +8,16 @@
 <br><br><br>
 ## 2. 급여입금통장내역 (중요도 100%)
 다들 [국민은행](https://www.kbstar.com/) 이나 [하나은행](https://www.kebhana.com/index.html) 이겠지?   
-일을 시작한 날부터 오늘까지 모든 **입급내역** 조회해서 저장해놓자 (출금내역은 체크해제)   
-나는 국민은행에서 xls파일로 저장되던데 고용노동부에서 못열수도있으니 pdf로 다시 저장했어   
-나처럼 집컴퓨터에 엑셀이 없으면 [Excel to PDF](https://smallpdf.com/kr/excel-to-pdf)에서 변환가능해    
+일을 시작한 날부터 오늘까지 모든 **입급내역** 조회해서 저장 (출금내역은 체크해제)   
+
+pdf로 저장해놓고 인쇄소나 문방구가서 프린트 하려면
+```
+나는 국민은행에서 xls파일로 저장되던데 인쇄소에서 못열수도있으니 pdf로 다시 저장했어   
+집 컴퓨터에 엑셀이 없으면 [Excel to PDF](https://smallpdf.com/kr/excel-to-pdf)에서 변환가능해    
 은행홈페이지에서 최대 1년단위 조회되니까 파일이 2개이상 나올거야   
 나는 파일 3개를 이렇게 저장해놨어   
 ![입급내역](log.png)  
+```
 <br><br><br>
 ## 3. 근로계약서 (중요도 90%)
 **연봉협상때 쓰고 보관중인 것** 
@@ -25,10 +29,32 @@
 회사에서 밀린급여를 언제까지 주겠다는 내용의 문서인데  
 아마 아무도 없을거야... 있으면 좋아    
 <br><br><br>
-## 5. 원천징수영수증 (중요도 40%)
-[국세청홈텍스](https://www.hometax.go.kr/websquare/websquare.html?w2xPath=/ui/pp/index.xml)
+## 5. 원천징수영수증 (중요도 ?)
+[국세청홈텍스](https://www.hometax.go.kr/websquare/websquare.html?w2xPath=/ui/pp/index.xml) 접속
+아래 사진에 버튼 클릭
+![step0](hometax_step_0.jpg)  
+사업자번호 클릭
+![step0](hometax_step_1.jpg)   
 
+pdf로 저장해놓고 인쇄소나 문방구가서 프린트 하려면
+```
+![savepdf0](원천징수 pdf저장방법0.jpg)  
+![savepdf1](원천징수 pdf저장방법1.jpg)  
+```
 <br><br><br>
+## 6. 국민건강보혐료 미납내역 (중요도 ?)
+[국민건강보험 징수포털](https://si4n.nhis.or.kr/jpza/JpZaa00102.do) 접속
+아래 사진에 버튼 클릭
+![health](건강보험료미납확인방법.jpg)  
+xls로 저장
+
+pdf로 저장해놓고 인쇄소나 문방구가서 프린트 하려면
+```
+[Excel to PDF](https://smallpdf.com/kr/excel-to-pdf)에서 변환
+```
+
+
+
 ## 6. 출퇴근 이력 (중요도 30%)    
 실제 회사에 가서 일을했다는 증거로 교통카드 내역이나 출퇴근체크 지문기록이 필요한데   
 개인지문기록은 없을거고 나는 걸어다녀서 교통카드내역도 없어   
