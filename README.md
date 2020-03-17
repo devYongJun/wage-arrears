@@ -53,7 +53,7 @@ xls로 저장
 [Excel to PDF](https://smallpdf.com/kr/excel-to-pdf)에서 변환   
 <br><br><br>
 ## 6. 이직확인서 (중요도 30%)
-고용산재보험 토탈서비스 ( http://total.kcomwel.or.kr/main.do ) 인터넷익스플로러로만 가능하니까 링크복사해서 접속
+고용산재보험 토탈서비스 http://total.kcomwel.or.kr/main.do 인터넷익스플로러로만 가능하니까 링크복사해서 접속   
 **주의!** 여기 사이트 개헬이니까 마음의 준비하고 들어가   
 수많은 엑티브엑스를 쓰러뜨리면 아래화면에 도착할수 있을거야  
 ![hell](이직확인서.jpg)  
