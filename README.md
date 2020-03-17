@@ -16,8 +16,8 @@
 일을 시작한 날부터 오늘까지 모든 **입급내역** 조회해서 저장 (출금내역은 체크해제)    
 은행홈페이지에서 최대 1년단위 조회되니까 파일이 2개이상 나올거야    
 
-**pdf로 저장해놓고 인쇄소나 문방구가서 프린트 하려면?**  
- [Excel to PDF](https://smallpdf.com/kr/excel-to-pdf)에서 변환
+**pdf로 저장해놓고 인쇄소나 문방구가서 프린트 하려면?**   
+ [Excel to PDF](https://smallpdf.com/kr/excel-to-pdf)에서 변환  
 ![입급내역](log.png)  
 <br><br><br>
 ## 3. 근로계약서 (중요도 90%)
@@ -36,9 +36,9 @@
 ![step0](hometax_step_0.jpg)  
 사업자번호 클릭
 ![step0](hometax_step_1.jpg)   
-**pdf로 저장해놓고 인쇄소나 문방구가서 프린트 하려면?**
-![savepdf0](원천징수_pdf저장방법0.jpg)  
-![savepdf1](원천징수_pdf저장방법1.jpg)   
+**pdf로 저장해놓고 인쇄소나 문방구가서 프린트 하려면?**  
+![savepdf0](원천징수_pdf저장방법0.jpg)    
+![savepdf1](원천징수_pdf저장방법1.jpg)     
 <br><br><br>
 ## 6. 국민건강보혐료 미납내역 (중요도 ?)
 [국민건강보험 징수포털](https://si4n.nhis.or.kr/jpza/JpZaa00102.do) 접속
@@ -46,8 +46,8 @@
 ![health](건강보험료미납확인방법.jpg)  
 xls로 저장  
 
-**pdf로 저장해놓고 인쇄소나 문방구가서 프린트 하려면?**
-[Excel to PDF](https://smallpdf.com/kr/excel-to-pdf)에서 변환  
+**pdf로 저장해놓고 인쇄소나 문방구가서 프린트 하려면?**   
+[Excel to PDF](https://smallpdf.com/kr/excel-to-pdf)에서 변환   
 <br><br><br>
 ## 6. 출퇴근 이력 (중요도 30%)    
 실제 회사에 가서 일을했다는 증거로 교통카드 내역이나 출퇴근체크 지문기록이 필요한데   
