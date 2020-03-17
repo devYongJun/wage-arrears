@@ -38,8 +38,8 @@ pdf로 저장해놓고 인쇄소나 문방구가서 프린트 하려면?
 사업자번호 클릭
 ![step0](hometax_step_1.jpg)   
 pdf로 저장해놓고 인쇄소나 문방구가서 프린트 하려면?
-![savepdf0](원천징수 pdf저장방법0.jpg)  
-![savepdf1](원천징수 pdf저장방법1.jpg)  
+![savepdf0](원천징수_pdf저장방법0.jpg)  
+![savepdf1](원천징수_pdf저장방법1.jpg)  
 <br><br><br>
 ## 6. 국민건강보혐료 미납내역 (중요도 ?)
 [국민건강보험 징수포털](https://si4n.nhis.or.kr/jpza/JpZaa00102.do) 접속
